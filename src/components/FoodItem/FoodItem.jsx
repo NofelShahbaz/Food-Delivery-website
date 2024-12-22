@@ -30,6 +30,6 @@ const FoodItem = ({ id, name, price, description, image }) => {
             </div>
         </div>
     );
-};
+};//this is second comment
 
 export default FoodItem;

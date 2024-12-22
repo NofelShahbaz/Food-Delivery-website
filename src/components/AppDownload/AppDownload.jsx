@@ -12,6 +12,6 @@ const AppDownload = () => {
       </div>
     </div>
   )
-}
+}//WEB APP SLOGAN
 
 export default AppDownload
