@@ -10,7 +10,7 @@ const Footer = () => {
                <img src={assets.logo} alt='' />
                <p>Tomato is a vibrant restaurant commemorating the versatility of tomatoes. Located in the heart of the city, we offer 
                 a menu overflowing with fresh, locally sourced tomato-based dishes—from savory soups and salads to creative small plates 
-                and desserts. Enjoy a warm, inviting atmosphere and a nostalgic dining experience with every bite</p>
+                and desserts. Enjoy a warm, inviting atmosphere and an extremely nostalgic dining experience with every bite</p>
                <div className="footer-social-icons">
                   <img src={assets.facebook_icon} alt='' />
                   <img src={assets.twitter_icon} alt='' />
